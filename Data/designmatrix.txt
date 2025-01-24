@@ -1,0 +1,6 @@
+Samples	baseline	mock_day12	myci_Day12
+T0	1	0	0
+T12_DMSO_rep1	1	1	0
+T12_DMSO_rep2	1	1	0
+T12_MYCi_rep1	1	0	1
+T12_MYCi_rep2	1	0	1
